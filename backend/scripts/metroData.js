@@ -1,0 +1,18 @@
+module.exports = [
+  {name:"উত্তরা উত্তর",en:"Uttara North",km:0,zone:1,terminal:true},
+  {name:"উত্তরা সেন্টার",en:"Uttara Center",km:1.95,zone:1},
+  {name:"উত্তরা দক্ষিণ",en:"Uttara South",km:3.6,zone:1},
+  {name:"পল্লবী",en:"Pallabi",km:5.65,zone:1},
+  {name:"মিরপুর ১১",en:"Mirpur 11",km:7.05,zone:2},
+  {name:"মিরপুর ১০",en:"Mirpur 10",km:8.35,zone:2,major:true},
+  {name:"কাজীপাড়া",en:"Kazipara",km:9.7,zone:2},
+  {name:"শেওড়াপাড়া",en:"Shewrapara",km:10.85,zone:2},
+  {name:"আগারগাঁও",en:"Agargaon",km:12.05,zone:2,major:true},
+  {name:"বিজয় সরণি",en:"Bijoy Sarani",km:13.45,zone:3},
+  {name:"ফার্মগেট",en:"Farmgate",km:14.55,zone:3,major:true},
+  {name:"কারওয়ান বাজার",en:"Karwan Bazar",km:15.75,zone:3},
+  {name:"শাহবাগ",en:"Shahbag",km:16.9,zone:3,major:true},
+  {name:"ঢাকা বিশ্ববিদ্যালয়",en:"Dhaka University",km:17.75,zone:3},
+  {name:"বাংলাদেশ সচিবালয়",en:"Bangladesh Secretariat",km:18.85,zone:4},
+  {name:"মতিঝিল",en:"Motijheel",km:19.72,zone:4,terminal:true},
+];

@@ -1,0 +1,252 @@
+{
+  "extractionDate": "2026-04-09T03:45:41.637Z",
+  "totalImages": 105,
+  "routesFound": 22,
+  "totalFares": 22,
+  "routes": [
+    {
+      "file": "Vara chart (10).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (12).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (16).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (2).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (32).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (36).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (37).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (44).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (55).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (57).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (6).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (60).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (7).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (73).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (74).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (79).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (82).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (85).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (90).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "Vara chart (93).jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "vara chart-8.jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    },
+    {
+      "file": "vara-chart-8.jpg",
+      "route": "Unknown → Unknown",
+      "fares": 1
+    }
+  ],
+  "fares": [
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 47,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 55,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 12,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 11,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 27,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 27,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 55,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 21,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 27,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 25,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 14,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 25,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 29,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 25,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 75,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 91,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 11,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 77,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 38,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 14,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 24,
+      "route": "Unknown → Unknown"
+    },
+    {
+      "from": "Unknown",
+      "to": "Unknown",
+      "fare": 24,
+      "route": "Unknown → Unknown"
+    }
+  ]
+}
