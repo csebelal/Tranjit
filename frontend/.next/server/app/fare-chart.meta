@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/fare-chart/layout,_N_T_/fare-chart/page,_N_T_/fare-chart"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/fare-chart/__PAGE__",
+    "/fare-chart",
+    "/_index",
+    "/_head"
+  ]
+}

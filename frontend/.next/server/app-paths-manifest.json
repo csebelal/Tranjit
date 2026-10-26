@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/buses/page": "app/buses/page.js",
+  "/fare-calculator/page": "app/fare-calculator/page.js",
+  "/fare-chart/page": "app/fare-chart/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/info/page": "app/info/page.js",
+  "/metro/page": "app/metro/page.js",
+  "/page": "app/page.js"
+}

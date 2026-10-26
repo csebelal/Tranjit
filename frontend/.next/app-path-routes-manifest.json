@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/buses/page": "/buses",
+  "/fare-calculator/page": "/fare-calculator",
+  "/fare-chart/page": "/fare-chart",
+  "/favicon.ico/route": "/favicon.ico",
+  "/info/page": "/info",
+  "/metro/page": "/metro",
+  "/page": "/"
+}

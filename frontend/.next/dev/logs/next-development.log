@@ -1,0 +1,17 @@
+{"timestamp":"00:00:31.765","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:34.977","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:37.944","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:38.048","source":"Browser","level":"LOG","message":"API Request: GET /buses/stops-with-aliases"}
+{"timestamp":"00:00:38.347","source":"Browser","level":"LOG","message":"API Request: GET /fares"}
+{"timestamp":"00:02:49.285","source":"Server","level":"LOG","message":"○ Compiling /fare-chart ..."}
+{"timestamp":"00:03:00.447","source":"Browser","level":"LOG","message":"Starting fetch..."}
+{"timestamp":"00:03:00.447","source":"Browser","level":"LOG","message":"Starting fetch..."}
+{"timestamp":"00:03:00.447","source":"Browser","level":"LOG","message":"API Request: GET /buses"}
+{"timestamp":"00:03:00.447","source":"Browser","level":"LOG","message":"API Request: GET /buses"}
+{"timestamp":"00:03:00.505","source":"Browser","level":"LOG","message":"Response received: 111"}
+{"timestamp":"00:03:00.654","source":"Browser","level":"LOG","message":"Response received: 111"}
+{"timestamp":"00:03:01.926","source":"Browser","level":"LOG","message":"API Request: GET /buses/stops-with-aliases"}
+{"timestamp":"00:03:01.927","source":"Browser","level":"LOG","message":"API Request: GET /buses/stops-with-aliases"}
+{"timestamp":"00:03:02.237","source":"Browser","level":"LOG","message":"API Request: GET /fares"}
+{"timestamp":"00:03:08.564","source":"Browser","level":"LOG","message":"API Request: GET /buses/search?from=%E0%A6%8F%E0%A6%AE%E0%A6%87%E0%A6%8F%E0%A6%B8&to=%E0%A6%8F%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%A1%20%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%20%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87"}
+{"timestamp":"00:03:08.564","source":"Browser","level":"LOG","message":"API Request: GET /buses/multimodal?from=%E0%A6%8F%E0%A6%AE%E0%A6%87%E0%A6%8F%E0%A6%B8&to=%E0%A6%8F%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%A1%20%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%20%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87"}

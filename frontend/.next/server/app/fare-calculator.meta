@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/fare-calculator/layout,_N_T_/fare-calculator/page,_N_T_/fare-calculator"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/fare-calculator/__PAGE__",
+    "/fare-calculator",
+    "/_index",
+    "/_head"
+  ]
+}

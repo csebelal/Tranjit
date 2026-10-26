@@ -1,0 +1,3 @@
+module.exports=[23953,a=>{"use strict";var b=a.i(87924);a.s(["default",0,function({reset:a}){return(0,b.jsxs)("div",{className:"flex flex-col items-center justify-center min-h-[60vh] gap-4 px-6 text-center",children:[(0,b.jsx)("p",{className:"text-slate-500 font-bold text-sm uppercase tracking-widest",children:"কিছু একটা সমস্যা হয়েছে।"}),(0,b.jsx)("button",{onClick:a,className:"bg-emerald-600 text-white px-6 py-2 rounded-xl font-bold text-sm hover:bg-emerald-700 transition-colors",children:"আবার চেষ্টা করুন"})]})}])}];
+
+//# sourceMappingURL=src_app_error_tsx_05yscq4._.js.map
